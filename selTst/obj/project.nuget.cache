@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vI9Kc9PmNWg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Crlsj\\OneDrive\\Documentos\\c\\p\\ht\\selTst\\selTst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Crlsj\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Crlsj\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.13700\\selenium.webdriver.chromedriver.128.0.6613.13700.nupkg.sha512"
+  ],
+  "logs": []
+}
